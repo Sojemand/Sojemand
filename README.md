@@ -54,3 +54,11 @@ non-deterministic model work inspectable, evidence-bound and computable.
 
 - The Ontology Machine repository: https://github.com/Sojemand/The-Ontology-Machine
 - Latest release: https://github.com/Sojemand/The-Ontology-Machine/releases/latest
+
+ ### Research
+
+I am the author of *Making Human Suspicion Computable*, a position paper on evidence-bound knowledge mining, ontology lenses, and human-AI co-reasoning.
+
+- Paper: [[PhilArchive link]](https://philpapers.org/rec/WEITBH)
+- ORCID ID: 0009-0002-1789-965X
+- Project: [The Ontology Machine](https://github.com/Sojemand/The-Ontology-Machine)
