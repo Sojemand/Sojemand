@@ -60,5 +60,5 @@ non-deterministic model work inspectable, evidence-bound and computable.
 I am the author of *Making Human Suspicion Computable*, a position paper on evidence-bound knowledge mining, ontology lenses, and human-AI co-reasoning.
 
 - Paper: [[Making Human Suspicion Computable]](https://philpapers.org/rec/WEITBH)
-- ORCID ID: 0009-0002-1789-965X
+- ORCID: 0009-0002-1789-965X
 
