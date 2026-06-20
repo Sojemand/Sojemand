@@ -64,7 +64,7 @@ I am the author of *Making Human Suspicion Computable*, a position paper on evid
 
 ### Toward A Workable Digital Psyche
 
-#### One Sentence
+#### What it is
 
 The Ontology Machine is a semantic memory engine for future agents: it turns
 large, messy human material into a persistent, inspectable, evidence-bound
@@ -484,7 +484,7 @@ The end goal is a full dynamic psyche loop:
 The result is a software architecture for persistent, inspectable,
 evidence-bound agent continuity.
 
-#### Short Public Framing
+#### Main Frame
 
 The Ontology Machine is the semantic memory engine for a larger architecture.
 
